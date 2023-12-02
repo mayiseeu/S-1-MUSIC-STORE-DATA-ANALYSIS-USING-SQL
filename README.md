@@ -1,2 +1,2 @@
-# SQL-PROJECT-OF-MUSIC DATABASE
-Fetching Out some impportant data with the help of SQL in POSTEGRE SQL.
+# SQL-PROJECT-OF-MUSIC STORE
+Fetching Out some important data with the help of SQL in POSTEGRE SQL.
